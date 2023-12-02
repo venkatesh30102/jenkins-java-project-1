@@ -12,8 +12,8 @@ public class Calculator {
 	Public int sum(int i, int j){
 		return i-j;
 	}
-	public int add(int i, int j){
-		return i+j;
+	public int add(int i, int k){
+		return i+k;
 	}
 	public int multiply(int i, int j){
 		return i*j;
